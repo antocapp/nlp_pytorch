@@ -1,2 +1,3 @@
 /enwiki
 .vscode/
+*.DS_Store
